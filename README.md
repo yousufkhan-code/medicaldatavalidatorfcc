@@ -7,3 +7,6 @@ I learned how to create a list, then put a dictionary inside and assign keys to 
 
 Day 2:
 I learned where you can import stuff such as re for this instance, and then found out about the functions such as re.IGNORECASE which made it easier when the function constraints checks for requirements in the medical records. Furthermore, I learned about the quantifiers. For example the p\d means it follows one digit after the letter 'p'. There are multiple variations but the one that I went through was the p\d+, which is basically one or more after the letter 'p'.
+
+Day 3:
+I learned about the dictionary key lookup, where you can look up exact key values in the dictionary, which made it really easy to look up for bad values inside of medical records and to truly ensure if the inputs are correct inside medical records
